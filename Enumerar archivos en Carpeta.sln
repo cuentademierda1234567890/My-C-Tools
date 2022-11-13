@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumerar archivos en Carpeta", "Enumerar archivos en Carpeta\Enumerar archivos en Carpeta.csproj", "{F82A6F8F-5664-47ED-A600-7D27CBD12D57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F82A6F8F-5664-47ED-A600-7D27CBD12D57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F82A6F8F-5664-47ED-A600-7D27CBD12D57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F82A6F8F-5664-47ED-A600-7D27CBD12D57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F82A6F8F-5664-47ED-A600-7D27CBD12D57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C9B725E-A9F3-4D67-9354-1F935376E79D}
+	EndGlobalSection
+EndGlobal

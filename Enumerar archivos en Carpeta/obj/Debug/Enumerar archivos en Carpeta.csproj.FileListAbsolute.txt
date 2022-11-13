@@ -1,0 +1,8 @@
+D:\Documentos\Enumerar archivos en Carpeta\Enumerar archivos en Carpeta\bin\Debug\Enumerar archivos en Carpeta.exe.config
+D:\Documentos\Enumerar archivos en Carpeta\Enumerar archivos en Carpeta\bin\Debug\Enumerar archivos en Carpeta.exe
+D:\Documentos\Enumerar archivos en Carpeta\Enumerar archivos en Carpeta\bin\Debug\Enumerar archivos en Carpeta.pdb
+D:\Documentos\Enumerar archivos en Carpeta\Enumerar archivos en Carpeta\obj\Debug\Enumerar archivos en Carpeta.csproj.AssemblyReference.cache
+D:\Documentos\Enumerar archivos en Carpeta\Enumerar archivos en Carpeta\obj\Debug\Enumerar archivos en Carpeta.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Enumerar archivos en Carpeta\Enumerar archivos en Carpeta\obj\Debug\Enumerar archivos en Carpeta.csproj.CoreCompileInputs.cache
+D:\Documentos\Enumerar archivos en Carpeta\Enumerar archivos en Carpeta\obj\Debug\Enumerar archivos en Carpeta.exe
+D:\Documentos\Enumerar archivos en Carpeta\Enumerar archivos en Carpeta\obj\Debug\Enumerar archivos en Carpeta.pdb
